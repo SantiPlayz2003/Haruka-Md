@@ -11,7 +11,7 @@
     "auto_leaveMsg": true,    
     "autobio": true,
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 250,
     "gcount": {
         "prem": 1000,
         "user": 15
