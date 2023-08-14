@@ -1,13 +1,13 @@
 {
-    "wait": "_Sedang Di Proses_",
+    "wait": "Espera mientras hago el proceso, si no te gusta entonces coma mierda sapo hijueputa >:v",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
-        "api": "Maaf terjadi kesalahan"
+        "Iv": "El Link no es válido",
+        "api": "Ha ocurrido un error"
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyGrup": "Este comando solo se puede usar en grupos.",
+    "OnlyPM": "Este comando solo se puede usar en mensajes privados.",
+    "GrupAdmin": "Este comando solo puede ser utilizado por administradores de grupo",
+    "BotAdmin": "El Bot debe ser administrador",
+    "OnlyOwner": "Este comando solo puede ser utilizado por mi dueño. (OREO🍁)",
+    "OnlyPrem": "Este pedido es solo para miembros Premium"
 }
